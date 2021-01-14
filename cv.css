@@ -1,0 +1,36 @@
+.page{
+    width: 900px;
+    margin: auto;
+}
+.infophoto{
+    float: left;
+    background-color: gray;
+}
+.information{
+    float: right;
+}
+.photo{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+h2{
+    text-decoration: underline;
+}
+.prog{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.color{
+    color: crimson;
+}
+.numero{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nom{
+    text-align: center;
+}
